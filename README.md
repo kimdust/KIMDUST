@@ -22,4 +22,4 @@
 <img src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 </br>
 <img src ="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src ="https://img.shields.io/badge/illustrator-#FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img src ="https://img.shields.io/badge/illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
