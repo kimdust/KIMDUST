@@ -24,3 +24,12 @@
 <img src ="https://img.shields.io/badge/illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 <img src ="https://img.shields.io/badge/3DS MAX-38a0c6.svg?&style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src ="https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
+
+</br>
+</br>
+
+``` </Kim MinJI> ```
+
+</br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffc144,100:5dacfd&height=200&section=footer)
