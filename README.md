@@ -23,4 +23,5 @@
 </br>
 <img src ="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src ="https://img.shields.io/badge/illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img src ="https://img.shields.io/badge/3DS MAX-38a0c6.svg?&style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src ="https://img.shields.io/badge/blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
